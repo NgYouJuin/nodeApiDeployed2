@@ -1,0 +1,6 @@
+{
+    "mongoUri": "mongodb+srv://test1:testone1@cluster0-hpgej.mongodb.net/GovTechMern?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "31cae33e0da1f2339ae9",
+    "githubSecret": "babb2316932bd389d59c68906f4663aac862523c"
+}
